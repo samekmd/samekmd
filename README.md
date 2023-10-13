@@ -22,6 +22,10 @@
 
  ### Studying in this moment:
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=ff4500&labelColor=0D1117)&nbsp;
+ ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117)&nbsp;
+ ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=ffff00&labelColor=0D1117)&nbsp;
+
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
