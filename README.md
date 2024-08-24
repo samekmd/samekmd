@@ -25,7 +25,10 @@
  ![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=ff4500&labelColor=0D1117)&nbsp;
  ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117)&nbsp;
  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=ffff00&labelColor=0D1117)&nbsp;
- ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=ffff00&labelColor=0D1117)&nbsp;
+ ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![Mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
  <div align="center">
